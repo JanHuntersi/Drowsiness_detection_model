@@ -26,6 +26,8 @@ In the  init_model() function we build our machine learning model. It is a seque
 ## Dataset 
 - used the yawn_eye_dataset_new, which is available [Kaggle](https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new)
 
+## Example pictures
+
 ![image](https://github.com/JanHuntersi/SEMINARSKA_NALOGA/assets/55513538/ad8184e1-38c6-44b4-98ac-30405faa2028)
 ![image](https://github.com/JanHuntersi/SEMINARSKA_NALOGA/assets/55513538/ea8762d5-8a42-408e-93bd-324f8cead358)
 ![image](https://github.com/JanHuntersi/SEMINARSKA_NALOGA/assets/55513538/2c6d3265-0f60-4395-a3dd-b26a304de81e)
